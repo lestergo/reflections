@@ -12,3 +12,6 @@ Fork - similar to clone but github only
 clone - creates a clone to your local
 branch - creates a new branch
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So you can do it offline.
